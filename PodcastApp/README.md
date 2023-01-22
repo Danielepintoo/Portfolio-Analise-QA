@@ -6,7 +6,7 @@ Este projeto foi criado com o propósito de praticar os **levantamentos de requi
 
 - Protótipo do Figma [PodcastApp](https://www.uplabs.com/posts/podcast-app-27e7dba2-b5d6-40f8-be0f-52d6710b9af7)
 
-![Referência Protótipo](../portfolio-analise-qa/img/ref_figma.png)
+![Referência Protótipo](../img/ref_figma.png)
 
 
 ## Analise do Projeto
@@ -39,7 +39,3 @@ A imagem abaixo irá indicar como foi feita a análise desse projeto, onde foi u
 - REQ 7 - Exibir a lista de todos os episódios
 
 - REQ 8 - Exibir do player de execução do podcast
-
-
-
-
